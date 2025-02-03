@@ -1,1 +1,1 @@
-# Fake-News-Detaction-using-Nlp
+# Fake-News-Detection-Machine-Learning-NlP
